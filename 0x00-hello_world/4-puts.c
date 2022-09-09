@@ -5,6 +5,6 @@
  **/
 int main(void)
 {
-puts("\"Programming is like building a multinligual puzzle");
+puts(stderr, "\"Programming is like building a multinligual puzzle");
 return (0);
 }
