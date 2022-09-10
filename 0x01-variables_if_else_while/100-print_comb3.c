@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * main block - main
+ * main - main blocki
  *
  * Return: 0
  */
@@ -27,7 +27,7 @@ int main(void)
 					putchar(' ');
 				}
 			}
-			
+
 			c++;
 
 		}
